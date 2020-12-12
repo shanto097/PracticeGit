@@ -7,5 +7,6 @@ I hope this would not cause Trouble. Let's see
 
 (a+b)^2 = a^2 + 2ab + b^2 - master branch.
 
-lets. add another to other branch
+(a+b)^3 = a^3 + 3.a^2.b + 3.a.b^2 + b^3; - cube formula added
+
 ab = ( (a+b)^2 - (a-b)2 ) / 4; - ab formula added
